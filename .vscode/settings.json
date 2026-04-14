@@ -1,6 +1,5 @@
 {
-    "geminicodeassist.outlines.automaticOutlineGeneration": true,
-    "chat.planAgent.defaultModel": "Claude Sonnet 4.6 (anthropic)",
+    "chat.planAgent.defaultModel": "DeepSeek: DeepSeek V3.2 (openrouter)",
     "chat.mcp.discovery.enabled": {
         "claude-desktop": true,
         "windsurf": true,
@@ -9,6 +8,13 @@
     },
     "inlineChat.defaultModel": "Gemini 2.5 Pro (gemini)",
     "continue.enableConsole": true,
-    "geminicodeassist.agentYoloMode": false,
-    "github.copilot.chat.codesearch.enabled": false
+    "geminicodeassist.agentYoloMode": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "sixth.telegram.enabled": true,
+    "chat.mcp.gallery.enabled": true,
+    "search.searchView.keywordSuggestions": true,
+    "github.copilot.chat.backgroundCompaction": true,
+    "github.copilot.chat.anthropic.toolSearchTool.mode": "server",
+    "github.copilot.chat.conversationTranscriptLookup.enabled": true,
+    "github.copilot.chat.copilotMemory.enabled": true
 }
