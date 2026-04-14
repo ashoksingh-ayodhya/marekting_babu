@@ -1,0 +1,14 @@
+{
+    "geminicodeassist.outlines.automaticOutlineGeneration": true,
+    "chat.planAgent.defaultModel": "Claude Sonnet 4.6 (anthropic)",
+    "chat.mcp.discovery.enabled": {
+        "claude-desktop": true,
+        "windsurf": true,
+        "cursor-global": true,
+        "cursor-workspace": true
+    },
+    "inlineChat.defaultModel": "Gemini 2.5 Pro (gemini)",
+    "continue.enableConsole": true,
+    "geminicodeassist.agentYoloMode": false,
+    "github.copilot.chat.codesearch.enabled": false
+}
